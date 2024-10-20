@@ -6,6 +6,15 @@
 
 Welcome to the **ATM Management System** project! This Python-based application simulates basic ATM functionalities like checking balance, authenticating users, and selecting languages. It's designed to mimic real-world ATM interactions 💻 and provide users with a familiar experience.
 
+## 🚨🚨🚨 **IMPORTANT NOTE** 🚨🚨🚨
+
+⚠️ **Attention!** ⚠️
+
+🛠️ **This project was developed between _7 July 2022_ and _10 December 2022_ by Avinash Dhanuka, completely from scratch.**  
+❌ **It was created WITHOUT ❌the use of any AI❌tools like ChatGPT, Gemini, or any other AI assistance.**  
+💯 **All code and logic were manually written by the developer, making this project an original and legitimate work!**
+
+---
 ### ✨ Key Features
 
 - 🔒 **PIN Authentication**: Secure your transactions with a 4-digit PIN.
@@ -90,5 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Avinash Dhanuka](https://github.com/yourusername)
-
+Made with ❤️ by [Avinash Dhanuka](https://github.com/Avinash-706)
