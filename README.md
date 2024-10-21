@@ -10,7 +10,7 @@
 Welcome to the **ATM Management System** project! This Python-based application simulates basic ATM functionalities like checking balance, authenticating users, and selecting languages. It's designed to mimic real-world ATM interactions 💻 and provide users with a familiar experience.
 
 ## 🚨🚨🚨 **IMPORTANT NOTE** 🚨🚨🚨 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNwemV5d2JsdnhzdmZocHczczFuYzc0ZWNpZ2N6bGNsenVweGRuZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BafZrA7tQuk4x997G0/giphy.gif" width="100" height="200" />
+<img src="https://www.flaticon.com/free-icon/warning_159454" width="100" height="200" />
 
 ⚠️ **Attention!** ⚠️  
 🛠️ **This project was developed between _7 July 2022_ and _10 December 2022_ by Avinash Dhanuka, completely from scratch.**  
