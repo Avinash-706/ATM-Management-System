@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)
 
+![ATM Action](https://path-to-hosted-gif.com)  <!-- Add dynamic ATM gif here -->
+
 ## 🌟 Overview
 
 Welcome to the **ATM Management System** project! This Python-based application simulates basic ATM functionalities like checking balance, authenticating users, and selecting languages. It's designed to mimic real-world ATM interactions 💻 and provide users with a familiar experience.
@@ -13,6 +15,8 @@ Welcome to the **ATM Management System** project! This Python-based application 
 🛠️ **This project was developed between _7 July 2022_ and _10 December 2022_ by Avinash Dhanuka, completely from scratch.**  
 ❌ **It was created WITHOUT ❌the use of any AI❌tools like ChatGPT, Gemini, or any other AI assistance.**  
 💯 **All code and logic were manually written by the developer, making this project an original and legitimate work!**
+
+![Important Note GIF](https://path-to-important-note-gif.com) <!-- Dynamic alert or note GIF -->
 
 ---
 ### ✨ Key Features
@@ -29,6 +33,8 @@ Welcome to the **ATM Management System** project! This Python-based application 
 ### Prerequisites 🛠️
 
 Before you start, make sure you have Python installed on your system. [Download Python here](https://www.python.org/downloads/).
+
+![Installation Sticker](https://path-to-installation-sticker.com) <!-- Add dynamic installation sticker here -->
 
 ### Installation ⚙️
 
@@ -59,6 +65,8 @@ Before you start, make sure you have Python installed on your system. [Download 
 3. **Explore Features**: Choose from options like balance inquiry or exiting the session.
 4. **Security Features**: The system allows only 3 attempts to enter the correct PIN, after which access will be locked. 🔒
 
+![User Action GIF](https://path-to-user-action-gif.com) <!-- Add a dynamic gif to show user action or interaction -->
+
 ---
 
 ## 🛠️ Project Structure
@@ -78,6 +86,8 @@ Here's a list of planned improvements:
 - 💳 **Deposit & Withdrawal**: Implement realistic deposit and withdrawal functionalities.
 - 📱 **Mobile Support**: A mobile-friendly version using a simple UI.
 - 🔒 **Enhanced Security**: Implement encryption for PINs and transactions.
+
+![Enhancements GIF](https://path-to-enhancements-gif.com) <!-- Dynamic enhancements animation -->
 
 ---
 
