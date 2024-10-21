@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)
 
 <!-- Here's a dynamic image related to the ATM action -->
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFmeGVoNDBpMzZzd2t5MW1jcjcxbDltOW9uYnVjNXJrZ2dra3NqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AD6b36IJuiA231oYgh/giphy.gif" width="300" height="400" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFmeGVoNDBpMzZzd2t5MW1jcjcxbDltOW9uYnVjNXJrZ2dra3NqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AD6b36IJuiA231oYgh/giphy.gif" width="225" height="300" />
 
 ## 🌟 Overview
 
