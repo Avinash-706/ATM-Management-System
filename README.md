@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)
 
-![ATM Action](https://path-to-hosted-gif.com)  <!-- Add dynamic ATM gif here -->
+![ATM Action](https://path-to-hosted-gif.com)  
+<!-- Here's a dynamic image related to the ATM action. You can host this image and replace the URL below with its link -->
+![ATM Action](./An_ATM_machine_in_action,_displaying_a_screen_with.png)
 
 ## 🌟 Overview
 
@@ -16,7 +18,7 @@ Welcome to the **ATM Management System** project! This Python-based application 
 ❌ **It was created WITHOUT ❌the use of any AI❌tools like ChatGPT, Gemini, or any other AI assistance.**  
 💯 **All code and logic were manually written by the developer, making this project an original and legitimate work!**
 
-![Important Note GIF](https://path-to-important-note-gif.com) <!-- Dynamic alert or note GIF -->
+![Important Note GIF](https://path-to-important-note-gif.com)
 
 ---
 ### ✨ Key Features
@@ -33,8 +35,6 @@ Welcome to the **ATM Management System** project! This Python-based application 
 ### Prerequisites 🛠️
 
 Before you start, make sure you have Python installed on your system. [Download Python here](https://www.python.org/downloads/).
-
-![Installation Sticker](https://path-to-installation-sticker.com) <!-- Add dynamic installation sticker here -->
 
 ### Installation ⚙️
 
@@ -65,8 +65,6 @@ Before you start, make sure you have Python installed on your system. [Download 
 3. **Explore Features**: Choose from options like balance inquiry or exiting the session.
 4. **Security Features**: The system allows only 3 attempts to enter the correct PIN, after which access will be locked. 🔒
 
-![User Action GIF](https://path-to-user-action-gif.com) <!-- Add a dynamic gif to show user action or interaction -->
-
 ---
 
 ## 🛠️ Project Structure
@@ -87,19 +85,11 @@ Here's a list of planned improvements:
 - 📱 **Mobile Support**: A mobile-friendly version using a simple UI.
 - 🔒 **Enhanced Security**: Implement encryption for PINs and transactions.
 
-![Enhancements GIF](https://path-to-enhancements-gif.com) <!-- Dynamic enhancements animation -->
-
 ---
 
 ## 🤝 Contributions
 
 We welcome contributions from everyone! Feel free to open an issue or submit a pull request. Together, let's make this project even better! 🚀
-
-1. **Fork** the repository.
-2. **Create** a new feature branch (`git checkout -b feature/AmazingFeature`).
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`).
-4. **Push** to the branch (`git push origin feature/AmazingFeature`).
-5. **Open** a Pull Request.
 
 ---
 
