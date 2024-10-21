@@ -2,9 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Contributions](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)
 
-![ATM Action](https://path-to-hosted-gif.com)  
-<!-- Here's a dynamic image related to the ATM action. You can host this image and replace the URL below with its link -->
-![ATM Action](./An_ATM_machine_in_action,_displaying_a_screen_with.png)
+![ATM Action](https://media.giphy.com/media/3o6ZsV6ckXsVREz2jG/giphy.gif)  
+<!-- Here's a dynamic image related to the ATM action -->
 
 ## 🌟 Overview
 
@@ -18,9 +17,8 @@ Welcome to the **ATM Management System** project! This Python-based application 
 ❌ **It was created WITHOUT ❌the use of any AI❌tools like ChatGPT, Gemini, or any other AI assistance.**  
 💯 **All code and logic were manually written by the developer, making this project an original and legitimate work!**
 
-![Important Note GIF](https://path-to-important-note-gif.com)
-
 ---
+
 ### ✨ Key Features
 
 - 🔒 **PIN Authentication**: Secure your transactions with a 4-digit PIN.
